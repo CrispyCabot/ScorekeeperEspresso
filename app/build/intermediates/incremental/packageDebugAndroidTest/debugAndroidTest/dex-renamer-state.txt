@@ -1,0 +1,4 @@
+#Sat Oct 24 17:53:36 EDT 2020
+base.0=C\:\\Users\\cjbas\\Desktop\\Android\\ScorekeeperEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
